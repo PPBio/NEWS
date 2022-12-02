@@ -1,2 +1,2 @@
 # NEWS
-This is repository for the news of PBBio
+This is a repository for the news of PPBio
